@@ -2,7 +2,7 @@
 
 # ResumeFreePro
 
-### Build Your Professional Resume in Minutes
+### Free Resume Builder with AI, Job Tracker & Cover Letter Generator
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge)](https://www.resumefreepro.com)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
@@ -12,7 +12,14 @@
 
 [**Try It Now**](https://www.resumefreepro.com) &bull; [**View Templates**](https://www.resumefreepro.com/#templates) &bull; [**Features**](https://www.resumefreepro.com/#features)
 
-<img src="screenshots/hero-banner.png" alt="ResumeFreePro - Free Professional Resume Builder" width="800"/>
+<img src="screenshots/hero-banner.png" alt="ResumeFreePro - Free ATS Resume Builder with AI and Job Tracker" width="800"/>
+
+<br>
+
+![50,000+ Resumes Created](https://img.shields.io/badge/Resumes_Created-50%2C000%2B-brightgreen?style=flat-square)
+![1,000+ Weekly Users](https://img.shields.io/badge/Weekly_Active_Users-1%2C000%2B-blue?style=flat-square)
+![100% Free](https://img.shields.io/badge/Price-100%25_Free-orange?style=flat-square)
+![No Signup](https://img.shields.io/badge/Signup-Not_Required-purple?style=flat-square)
 
 </div>
 
@@ -39,7 +46,9 @@
 | **AI Resume Import** | :white_check_mark: | :x: Manual only |
 | **LinkedIn Import** | :white_check_mark: | :x: Not available |
 | **ATS Optimized** | :white_check_mark: | :warning: Sometimes |
-| **Unlimited Downloads** | :white_check_mark: | :x: Limits |
+| **Job Application Tracker** | :white_check_mark: | :x: Not included |
+| **Cover Letter Builder** | :white_check_mark: | :x: Paid only |
+| **Chrome Extension** | :white_check_mark: | :x: Not available |
 | **No Sign-up Required** | :white_check_mark: | :x: Account needed |
 
 ---
@@ -47,24 +56,24 @@
 ## Features
 
 ### :rocket: AI-Powered Resume Import
-Upload your existing PDF resume or paste your LinkedIn URL - our AI extracts all your information instantly.
+Upload your existing PDF or DOCX resume, or paste your LinkedIn URL — AI extracts all your information instantly and fills every section for you.
 
-<img src="screenshots/import-options.png" alt="AI Import Options" width="600"/>
+<img src="screenshots/import-options.png" alt="AI Resume Import - LinkedIn and PDF Upload" width="600"/>
 
-### :art: Professional Templates
-Choose from multiple ATS-optimized templates designed by HR professionals.
+### :art: 12+ ATS-Optimized Templates
+Choose from 12+ professional resume templates designed to pass Applicant Tracking Systems. Single-column, double-column, and modern layouts engineered by HR professionals.
 
-<img src="screenshots/templates.png" alt="Resume Templates" width="600"/>
+<img src="screenshots/templates.png" alt="ATS-Optimized Resume Templates" width="600"/>
 
 ### :paintbrush: Deep Customization
-Customize fonts, colors, spacing, icons, and layout to match your personal style.
+Customize fonts, colors, spacing, margins, section headers, and 6 header layout options. Full profile photo controls — shape, size, border, and shadow.
 
-<img src="screenshots/design.png" alt="Design Customization" width="600"/>
+<img src="screenshots/design.png" alt="Resume Design Customization" width="600"/>
 
 ### :page_facing_up: Multiple Download Options
-Export your resume in different formats - seamless single-page or traditional multi-page PDF.
+Export as multi-page PDF with intelligent page breaks, or as a compact single-page format. Unlimited downloads, no watermarks, ever.
 
-<img src="screenshots/download-options.png" alt="Download Options" width="600"/>
+<img src="screenshots/download-options.png" alt="Resume Download Options" width="600"/>
 
 ---
 
@@ -75,9 +84,56 @@ Export your resume in different formats - seamless single-page or traditional mu
 | Step 1 | Step 2 | Step 3 |
 |:------:|:------:|:------:|
 | :clipboard: **Choose Template** | :pencil2: **Fill Your Details** | :arrow_down: **Download PDF** |
-| Pick from premium, ATS-optimized templates | Add your experience, skills, and education | Export your professional resume instantly |
+| Pick from 12+ ATS-optimized templates | Import from LinkedIn/PDF or fill manually | Export your professional resume instantly |
 
 </div>
+
+---
+
+## Key Features
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### :dollar: 100% Free Forever
+No hidden fees, no credit card, no watermarks. Create unlimited professional resumes, cover letters, and portfolios — completely free.
+
+</td>
+<td width="33%" valign="top">
+
+### :white_check_mark: ATS-Optimized
+All 12+ templates are engineered to pass Applicant Tracking Systems. Get your resume seen by recruiters, not filtered out before they read it.
+
+</td>
+<td width="33%" valign="top">
+
+### :briefcase: Job Application Tracker
+Built-in Kanban board + calendar view to track every application. Save jobs from any job board with the Chrome extension in one click.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### :memo: Cover Letter, Resignation Letter & Portfolio
+Generate cover letters tied to specific roles, write resignation letters with built-in templates, and build a one-click portfolio page auto-populated from your resume data.
+
+</td>
+<td width="33%" valign="top">
+
+### :robot: AI Resume Tailoring
+Paste a job description — AI rewrites your resume to match it. Get a 7-dimension JD match score and ATS health check with instant results.
+
+</td>
+<td width="33%" valign="top">
+
+### :link: Public Sharing & Cloud Sync
+Share a clean web-hosted resume link instead of a PDF attachment. All resumes auto-save to the cloud, accessible from any device.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -93,60 +149,13 @@ No sign-up required. No credit card needed. Free forever.
 
 ---
 
-## Key Features
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### :dollar: 100% Free Forever
-No hidden fees, no credit card required, no watermarks. Create unlimited professional resumes completely free.
-
-</td>
-<td width="33%" valign="top">
-
-### :white_check_mark: ATS-Optimized
-All templates are designed to pass Applicant Tracking Systems. Get your resume seen by recruiters, not filtered out.
-
-</td>
-<td width="33%" valign="top">
-
-### :arrow_down: Unlimited Downloads
-Download your resume as a high-quality PDF as many times as you need. No limits, no restrictions.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### :lock: Privacy First
-Your data stays yours. We never sell or share your personal information with third parties. Period.
-
-</td>
-<td width="33%" valign="top">
-
-### :page_facing_up: PDF Import
-Already have a resume? Upload your existing PDF and our AI will parse it automatically. Edit and improve in seconds.
-
-</td>
-<td width="33%" valign="top">
-
-### :briefcase: LinkedIn Import
-Import your LinkedIn profile data with one click. Auto-fill your experience, education, and skills instantly.
-
-</td>
-</tr>
-</table>
-
----
-
 ## Tech Stack
 
 | Layer | Technologies |
 |-------|-------------|
 | **Frontend** | React 18, Vite, TypeScript, Tailwind CSS, Redux Toolkit |
 | **Backend** | NestJS, MongoDB |
-| **AI** | Grok for resume parsing | Gemini for the suggestions | GPT for the review|
+| **AI** | Grok for resume parsing | Gemini for suggestions | GPT for review |
 | **Infrastructure** | Cloudflare Workers, Vercel |
 
 ---
@@ -169,15 +178,19 @@ Import your LinkedIn profile data with one click. Auto-fill your experience, edu
 
 ## Roadmap
 
-- [x] AI PDF Import
+- [x] AI PDF & DOCX Import
 - [x] LinkedIn Import
-- [x] 4+ Professional Templates
+- [x] 12+ ATS-Optimized Templates
 - [x] Full Design Customization
 - [x] Real-time PDF Preview
-- [ ] Cover Letter Builder
-- [ ] Job Application Tracker
-- [ ] Chrome Extension
-- [ ] Resume Analytics
+- [x] Cover Letter Builder
+- [x] Resignation Letter Builder
+- [x] Job Application Tracker (Kanban + Calendar)
+- [x] Chrome Extension (Job Saver + LinkedIn)
+- [x] Portfolio Builder
+- [x] AI Resume Tailoring & JD Match Score
+- [ ] Resume Analytics Dashboard
+- [ ] Portfolio Custom Domain
 
 ---
 
@@ -212,7 +225,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ### Ready to Land Your Dream Job?
 
-Create your professional resume in minutes. 100% free, no credit card required.
+Free resume builder with AI tailoring, job tracker, cover letter generator, and Chrome extension. No signup required.
 
 [**Create My Resume Now :arrow_right:**](https://www.resumefreepro.com)
 
